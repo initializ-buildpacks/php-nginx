@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phpnginx "github.com/paketo-buildpacks/php-nginx"
+	phpnginx "github.com/initializ-buildpacks/php-nginx"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

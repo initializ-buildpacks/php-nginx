@@ -10,8 +10,8 @@ import (
 
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phpnginx "github.com/paketo-buildpacks/php-nginx"
-	"github.com/paketo-buildpacks/php-nginx/fakes"
+	phpnginx "github.com/initializ-buildpacks/php-nginx"
+	"github.com/initializ-buildpacks/php-nginx/fakes"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

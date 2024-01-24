@@ -2,14 +2,14 @@ api = "0.7"
 
 [buildpack]
   description = "A buildpack for configuring Nginx for PHP apps"
-  homepage = "https://github.com/paketo-buildpacks/php-nginx"
-  id = "paketo-buildpacks/php-nginx"
+  homepage = "https://github.com/initializ-buildpacks/php-nginx"
+  id = "initializ-buildpacks/php-nginx"
   keywords = ["php", "nginx"]
-  name = "Paketo Buildpack for PHP Nginx"
+  name = "Initializ Buildpack for PHP Nginx"
 
   [[buildpack.licenses]]
     type = "Apache-2.0"
-    uri = "https://github.com/paketo-buildpacks/php-nginx/blob/main/LICENSE"
+    uri = "https://github.com/initializ-buildpacks/php-nginx/blob/main/LICENSE"
 
 [metadata]
   include-files = ["bin/build", "bin/detect", "bin/run", "buildpack.toml"]

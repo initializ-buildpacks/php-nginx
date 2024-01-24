@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/php-nginx
+module github.com/initializ-buildpacks/php-nginx
 
 go 1.18
 

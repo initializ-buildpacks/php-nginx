@@ -6,7 +6,7 @@ import (
 
 	. "github.com/onsi/gomega"
 	"github.com/paketo-buildpacks/packit/v2"
-	phpnginx "github.com/paketo-buildpacks/php-nginx"
+	phpnginx "github.com/initializ-buildpacks/php-nginx"
 	"github.com/sclevine/spec"
 )
 
